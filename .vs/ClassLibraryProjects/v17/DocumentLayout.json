@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CENTENNIAL\\Winter 2024\\COMP367\\Lab 4 MVC\\ClassLibraryProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{820CCC49-9D22-4656-B3C3-8A7A488F1423}|ShowCase\\ShowCase.csproj|d:\\centennial\\winter 2024\\comp367\\lab 4 mvc\\classlibraryprojects\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820CCC49-9D22-4656-B3C3-8A7A488F1423}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90688C4F-ABFC-4A28-A114-FF3362795DA1}|StringLibrary\\StringLibrary.csproj|d:\\centennial\\winter 2024\\comp367\\lab 4 mvc\\classlibraryprojects\\stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90688C4F-ABFC-4A28-A114-FF3362795DA1}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CENTENNIAL\\Winter 2024\\COMP367\\Lab 4 MVC\\ClassLibraryProjects\\ShowCase\\Program.cs",
+              "RelativeDocumentMoniker": "ShowCase\\Program.cs",
+              "ToolTip": "D:\\CENTENNIAL\\Winter 2024\\COMP367\\Lab 4 MVC\\ClassLibraryProjects\\ShowCase\\Program.cs",
+              "RelativeToolTip": "ShowCase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:49:36.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\CENTENNIAL\\Winter 2024\\COMP367\\Lab 4 MVC\\ClassLibraryProjects\\StringLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "StringLibrary\\Class1.cs",
+              "ToolTip": "D:\\CENTENNIAL\\Winter 2024\\COMP367\\Lab 4 MVC\\ClassLibraryProjects\\StringLibrary\\Class1.cs",
+              "RelativeToolTip": "StringLibrary\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:46:56.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1051,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
