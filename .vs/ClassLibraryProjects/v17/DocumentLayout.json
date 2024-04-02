@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\CENTENNIAL\\Winter 2024\\COMP367\\Lab 4 MVC\\ClassLibraryProjects\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\einer\\AppData\\Roaming\\NuGet\\NuGet.Config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{820CCC49-9D22-4656-B3C3-8A7A488F1423}|ShowCase\\ShowCase.csproj|d:\\centennial\\winter 2024\\comp367\\lab 4 mvc\\classlibraryprojects\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{820CCC49-9D22-4656-B3C3-8A7A488F1423}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,6 +42,17 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NuGet.Config",
+              "DocumentMoniker": "C:\\Users\\einer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "ToolTip": "C:\\Users\\einer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-02T16:09:50.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CENTENNIAL\\Winter 2024\\COMP367\\Lab 4 MVC\\ClassLibraryProjects\\ShowCase\\Program.cs",
               "RelativeDocumentMoniker": "ShowCase\\Program.cs",
@@ -51,7 +65,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\CENTENNIAL\\Winter 2024\\COMP367\\Lab 4 MVC\\ClassLibraryProjects\\StringLibrary\\Class1.cs",
               "RelativeDocumentMoniker": "StringLibrary\\Class1.cs",
@@ -59,8 +73,7 @@
               "RelativeToolTip": "StringLibrary\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T15:46:56.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T15:46:56.79Z"
             }
           ]
         },
