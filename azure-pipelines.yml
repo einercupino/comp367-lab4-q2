@@ -6,21 +6,25 @@ pool:
 
 steps:
 - task: UseDotNet@2
+  displayName: 'Install .NET SDK'
   inputs:
-    version: '6.x'
+    version: '8.x'
     packageType: 'sdk'
 
 - task: DotNetCoreCLI@2
+  displayName: 'Restore NuGet Packages'
   inputs:
     command: 'restore'
     projects: '**/*.csproj'
 
 - task: DotNetCoreCLI@2
+  displayName: 'Build Solution'
   inputs:
     command: 'build'
     projects: '**/*.csproj'
 
 - task: DotNetCoreCLI@2
+  displayName: 'Pack Class Library'
   inputs:
     command: 'pack'
     packagesToPack: '**/*.csproj'
@@ -28,12 +32,14 @@ steps:
     includeSymbols: true
 
 - task: PublishBuildArtifacts@1
+  displayName: 'Publish NuGet Package'
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'nuget'
     publishLocation: 'container'
 
 - task: DotNetCoreCLI@2
+  displayName: 'Push to Azure Artifacts'
   inputs:
     command: 'push'
     packagesToPush: '$(Build.ArtifactStagingDirectory)/**/*.nupkg'
