@@ -20,6 +20,7 @@
       "outputPath": "D:\\CENTENNIAL\\Winter 2024\\COMP367\\Lab 4 MVC\\ClassLibraryProjects\\StringLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
+        "D:\\CENTENNIAL\\Winter 2024\\COMP367\\Lab 4 MVC\\ClassLibraryProjects\\NuGet.Config",
         "C:\\Users\\einer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -27,8 +28,7 @@
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://pkgs.dev.azure.com/ecupino/a23923dc-a6da-45ab-8810-8b59dac83592/_packaging/COMP367Lab4/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
